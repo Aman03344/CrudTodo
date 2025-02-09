@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+
+*{
+    /* border: 1px solid red; */
+    font-family: font;
+}
+
+
+body{
+    background-color: #FFFFFF;
+}
+
+@font-face {
+    font-family: font;
+    src: url(../public/Ranade-Light.otf);
+}
